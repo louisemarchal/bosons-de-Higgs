@@ -4,4 +4,4 @@ La première étape est d'analyser les données afin de comprendre par exemples 
 Puis mettre en place des modèles sans chercher à les optimiser pour faire un premier tri entre les classifieurs opérationnels sur les données et ceux donnant des résultats en dessous de ceux de la base line.
 Enfin on peut effectuer des tests sur les hpyer-paramètres des modèles sélectionnés.
 Voici les résultats avec différents modèles de prédictions :
-https://github.com/louisemarchal/bosons-de-Higgs/blob/master/res/AD_acc.png
+![Alt text](https://github.com/louisemarchal/bosons-de-Higgs/blob/master/res/AD_acc.png?raw=true "Accuracy en apprentissage et en test avec un arbre de décisions en fonction de la profondeur")
